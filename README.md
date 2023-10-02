@@ -1,2 +1,3 @@
 # power-BI-notes
-From Professor Xinghua Sun
+notes shared by Professor Xinghua Sun
+Ref: http://720p.ysepan.com/
